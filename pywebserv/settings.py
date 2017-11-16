@@ -26,7 +26,7 @@ SECRET_KEY = 'vz$n&b0lo$n(c8)65r-cbui-y-jy$+mkg2n7#rewhl(n&5r@1f'
 DEBUG = True
 
 #here we need to define webhosts urls
-ALLOWED_HOSTS = ['127.0.0.1']
+ALLOWED_HOSTS = [http://portikh.pythonanywhere.com/]
 
 
 # Application definition
